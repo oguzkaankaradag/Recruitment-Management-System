@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$USER_HOME$/Downloads/candidate-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/interview-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/job-posting-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/onboarding-task-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/eureka-server/pom.xml" />
+        <option value="$USER_HOME$/Downloads/api-gateway/pom.xml" />
+        <option value="$USER_HOME$/Downloads/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/candidate-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/interview-service/pom.xml" />
+        <option value="$PROJECT_DIR$/job-posting-service/pom.xml" />
+        <option value="$PROJECT_DIR$/onboarding-task-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

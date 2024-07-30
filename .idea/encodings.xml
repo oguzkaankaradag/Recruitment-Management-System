@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/candidate-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/job-posting-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onboarding-task-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/candidate-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/interview-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/job-posting-service/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/onboarding-task-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
